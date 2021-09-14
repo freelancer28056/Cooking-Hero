@@ -12,3 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4207f1d0c4529a04ca423b160035ee56, type: 3}
   m_Name: FoodItem
   m_EditorClassIdentifier: 
+  burger: {fileID: 4086462207524195775, guid: 9f9b838d60b0e314f97f995bff42c49e, type: 3}
+  burgerPatti: {fileID: 1863077790037215343, guid: edd779da7aede944d871b7cf8b1b2708, type: 3}
+  juice: {fileID: 1343804061149780770, guid: 84ca929a0c0a976499072623b1c2d299, type: 3}
+  coffee: {fileID: 1012821273589353607, guid: 49d959e1e934c6d42b97dacb4f9503fb, type: 3}

@@ -6,6 +6,7 @@ using UnityEngine;
 public class FoodItems : ScriptableObject
 {
     public GameObject burger;
+    public GameObject burgerPatti;
     public GameObject juice;
     public GameObject coffee;
 

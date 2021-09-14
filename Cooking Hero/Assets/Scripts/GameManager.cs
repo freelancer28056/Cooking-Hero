@@ -6,6 +6,9 @@ public class GameManager : MonoBehaviour
 {
 
     [SerializeField] private GamePlayManagers gamePlayManagers;
+    [SerializeField] private Transform[] plates;
+    [SerializeField] private Transform[] juiceMachinesGlass;
+    [SerializeField] private Transform[] CoffeeMachinesSaucer;
     // Start is called before the first frame update
     void Start()
     {
