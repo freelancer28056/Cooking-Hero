@@ -308,7 +308,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88ba0da1fc81e2144ac513fdb9cc4dd6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: SampleScene
   progressBar: {fileID: 322695258}
 --- !u!4 &815312182
 Transform:
@@ -451,14 +450,14 @@ RectTransform:
   m_GameObject: {fileID: 1149180949}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.0983, y: 1.0983, z: 1.0983}
   m_Children: []
   m_Father: {fileID: 1553140434}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 7}
+  m_AnchoredPosition: {x: 0, y: 23.8}
   m_SizeDelta: {x: 52, y: 55}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1149180951
