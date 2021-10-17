@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Lobby.unity
     guid: 1f41576bebb560846a151967d6bd521b
   - enabled: 1
-    path: Assets/Scenes/Gameplay.unity
+    path: Assets/Scenes/RuralRestaurent.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}

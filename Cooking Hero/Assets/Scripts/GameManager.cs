@@ -5,14 +5,18 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
 
-    [SerializeField] private GamePlayManagers gamePlayManagers;
-    [SerializeField] private Transform[] plates;
-    [SerializeField] private Transform[] juiceMachinesGlass;
-    [SerializeField] private Transform[] CoffeeMachinesSaucer;
+    [SerializeField]private GamePlayManagers gamePlayManagers;
+    [SerializeField] private LevelData levelData;
+    public Transform[] plates;
+    public Transform[] juiceMachinesGlass;
+    public Transform[] CoffeeMachinesSaucer;
+   
     // Start is called before the first frame update
     void Start()
     {
-        
+        levelData.FetchData();
+        gamePlayManagers.gamePlayManagers.GetComponent<PrepareFood>().SetupTheRestaurent();
+
     }
 
     // Update is called once per frame

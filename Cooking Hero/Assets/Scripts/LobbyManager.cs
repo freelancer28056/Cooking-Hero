@@ -24,7 +24,7 @@ public class LobbyManager : MonoBehaviour
     }
     public void LoadGamePlayLevel()
     {
-        loadingOperation = SceneManager.LoadSceneAsync("Gameplay");
+        loadingOperation = SceneManager.LoadSceneAsync("RuralRestaurent");
         
     }
 }
