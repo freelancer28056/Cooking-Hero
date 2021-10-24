@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviour
     public Transform[] plates;
     public Transform[] juiceMachinesGlass;
     public Transform[] CoffeeMachinesSaucer;
+    
    
     // Start is called before the first frame update
     void Start()

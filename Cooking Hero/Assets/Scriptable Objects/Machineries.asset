@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b91b1c207a784054fbce0b266b223908, type: 3}
+  m_Name: Machineries
+  m_EditorClassIdentifier: 
+  plates:
+  - {fileID: 2866239984536193420, guid: 87ae5941be0974d4dbc962d7ebc8c99b, type: 3}
+  - {fileID: 3281821329442546563, guid: 88b1b06ae0d002b43a58c988f067f2b3, type: 3}
+  - {fileID: 6118510129305981832, guid: c63c4e28721bd624f80fce18606a94ac, type: 3}
+  - {fileID: 8132525921161721056, guid: 552913ab88b6ea94a93ccfabe7ae2df9, type: 3}
+  - {fileID: 7212548462952524327, guid: 4daa91e979514f74bba539ab6ab11563, type: 3}
+  - {fileID: 5706123897791440639, guid: 5a7f456628e18f34781ebe17fd337e31, type: 3}

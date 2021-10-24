@@ -8,6 +8,7 @@ TagManager:
   - BurgerMeatStorage
   - TomatoStorage
   - LeafStorage
+  - Plate Tray
   layers:
   - Default
   - TransparentFX

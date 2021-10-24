@@ -9,5 +9,6 @@ public class FoodItems : ScriptableObject
     public GameObject burgerPatti;
     public GameObject juice;
     public GameObject coffee;
+  
 
 }

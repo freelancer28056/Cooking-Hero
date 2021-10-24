@@ -43,4 +43,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 320653f667670a74c88a26d84a1671c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  machineries: {fileID: 11400000, guid: ff7fd99310a226f4f959c2b454d120f9, type: 2}
   foodItems: {fileID: 11400000, guid: 27a1150c0efb0b84d8d307af16b87e34, type: 2}
+  levelData: {fileID: 11400000, guid: 7c3a4fa61c5ec71449ba79db334db6f1, type: 2}

@@ -16,3 +16,4 @@ MonoBehaviour:
   burgerPatti: {fileID: 1863077790037215343, guid: edd779da7aede944d871b7cf8b1b2708, type: 3}
   juice: {fileID: 1343804061149780770, guid: 84ca929a0c0a976499072623b1c2d299, type: 3}
   coffee: {fileID: 1012821273589353607, guid: 49d959e1e934c6d42b97dacb4f9503fb, type: 3}
+  plates: {fileID: 2866239984536193420, guid: 87ae5941be0974d4dbc962d7ebc8c99b, type: 3}
